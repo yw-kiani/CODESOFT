@@ -1,15 +1,15 @@
 # CODESOFT
 CodSoft Python Projects
  
-Author
+#Author
 • Name: YOUSRA
 • Email: ywkiani@gmail.com
 
-Introduction
+#Introduction
 Welcome to the CodSoft Python Projects repository! In this collection, I have developed five Python projects
 that cover a variety of functionalities. Feel free to explore each project and try them out for yourself.
 
-Projects
+#Projects
 1. ToDoList.py
 • Description: A simple to-do list application that allows you to add, delete, and view tasks.
 • How to Run: Instructions are available in the README of the respective project folder.
